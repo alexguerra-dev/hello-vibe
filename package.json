@@ -1,7 +1,14 @@
 {
     "name": "hello-vibe",
-    "version": "0.1.0",
+    "version": "0.0.1",
     "private": true,
+    "description": "Playing with Cursor and Vibe coding",
+    "author": "Alexander Guerra",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alexguerra-dev/hello-vibe"
+    },
     "scripts": {
         "dev": "next dev --turbopack",
         "build": "next build --turbopack",

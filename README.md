@@ -39,3 +39,8 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 ## Deploy on Vercel
 
 I am useing [Vercel](https://vercel.com/) for deployment. It works very well with the NextJs Framework.
+
+## My Information
+
+- Name: Alexander Guerra
+- Github: [alexguerra-dev](https://github.com/alexguerra-dev)
