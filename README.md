@@ -1,12 +1,17 @@
 # Hello, Vibe
 
 This is a place for me to explore and experiment with _vibe_ coding.
+I love setting up projects. So, I am going to try and make a project template.
+The technologies that I am going are listed below.
 
 ## Technologies
 
 - Typescript
 - NextJS
 - Tailwind CSS
+
+> [!QUESTION] Backend?
+> What technologies should I have to make a functioning backend?
 
 ## Getting Started
 
