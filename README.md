@@ -22,6 +22,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ## Project Documentation
 
+- [Vibe Coding Notes](/doc/vibe.md)
 - [Tasks](/doc/tasks.md)
 - [Ideas](/doc/ideas.md)
 
